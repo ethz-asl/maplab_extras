@@ -2,8 +2,8 @@
 	path = maplab_tools
 	url = git@github.com:ethz-asl/maplab_tools.git
 [submodule "pointmatcher-ros"]
-	path = pointmatcher-ros
+	path = registration-toolbox/pointmatcher-ros
 	url = git@github.com:ANYbotics/pointmatcher-ros.git
 [submodule "libpointmatcher"]
-	path = libpointmatcher
+	path = registration-toolbox/libpointmatcher
 	url = git@github.com:ANYbotics/libpointmatcher.git
