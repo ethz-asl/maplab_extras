@@ -1,0 +1,3 @@
+[submodule "maplab_tools"]
+	path = maplab_tools
+	url = git@github.com:ethz-asl/maplab_tools.git
